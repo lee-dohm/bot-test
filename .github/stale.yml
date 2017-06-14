@@ -1,4 +1,6 @@
 # Configuration for probot-stale - https://github.com/probot/stale
+visitor:
+  delay: false
 noResponse:
   daysUntilClose: 0
 stale:
